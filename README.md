@@ -1,7 +1,7 @@
 ### Here Is what I'm Working On!
 
 - 🔭 I’m currently working on ... [SURFVERSE.COM](https://surfverse.com)
-- 🌱 I’m currently learning ... [Hugo](https://gohugo.io)
+- 🌱 I’m currently learning ... [Hugo](https://gohugo.io) & JavaScript
 - 👯 I’m looking to collaborate on ... Django, Design, Translations
 - 👨‍💻 I’m contributing to open-source for Python/Django projects ...
 - 💬 Ask me about ... Anything
